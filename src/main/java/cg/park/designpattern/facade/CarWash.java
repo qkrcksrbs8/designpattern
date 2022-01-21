@@ -14,8 +14,8 @@ public class CarWash {
          , PressureWasher pressureWasher
          , Towel towel
          , WashMitt washMitt
-         , WheelBrush wheelBrush) {
-
+         , WheelBrush wheelBrush)
+    {
         this.bucket = bucket;
         this.washMitt = washMitt;
         this.wheelBrush = wheelBrush;
