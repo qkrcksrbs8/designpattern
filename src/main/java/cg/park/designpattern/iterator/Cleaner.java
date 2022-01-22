@@ -10,7 +10,7 @@ public class Cleaner {
     public void cleaning() {
         System.out.println("==========청소 시작==========");
         printCleaning(washMenu.createIterator());
-        System.out.println("==========청소 끝==========");
+        System.out.println("==========청소   끝==========");
     }
 
     private void printCleaning(Iterator iterator) {

@@ -8,4 +8,5 @@ public class WashMenuIterator implements Iterator {
 
     public MenuItem next() {return items[position++];}
     public boolean hasNext() {return items.length > position;}
+
 }
