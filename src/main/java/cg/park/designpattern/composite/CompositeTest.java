@@ -18,5 +18,6 @@ public class CompositeTest {
         company.add(new MenuItem("C사"));
         Cleaner cleaner = new Cleaner(allMenus);
         cleaner.printMenu();
+        //test
     }
 }
