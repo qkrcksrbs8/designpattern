@@ -19,6 +19,6 @@ public class CompositeTest {
         Cleaner cleaner = new Cleaner(allMenus);
         cleaner.printMenu();
         //test
-        //mac 연동
+        //mac 연정
     }
 }
